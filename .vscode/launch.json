@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/lsaba-qu/CLionProjects/CPP-Module-02/ex00",
+      "program": "/Users/lsaba-qu/CLionProjects/CPP-Module-02/ex00/build/Debug/outDebug"
+    }
+  ]
+}
