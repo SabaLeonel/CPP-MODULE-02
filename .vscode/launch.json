@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/lsaba-qu/CLionProjects/CPP-Module-02/ex00",
-      "program": "/Users/lsaba-qu/CLionProjects/CPP-Module-02/ex00/build/Debug/outDebug"
+      "cwd": "/Users/leon/Documents/CPP-Module-02/ex01",
+      "program": "/Users/leon/Documents/CPP-Module-02/ex01/build/Debug/outDebug"
     }
   ]
 }
